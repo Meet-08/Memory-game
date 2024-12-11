@@ -1,12 +1,12 @@
 # Memory Game
 
-A fun and interactive memory game built using **React**, styled with **Tailwind CSS**, enhanced with animations using **Framer Motion**, and with notifications powered by **React Toastify**.
+A fun and interactive memory game built using **React**, styled with **Tailwind CSS**, enhanced with animations using **Motion**, and with notifications powered by **React Hot toast**.
 
 ## Features
 
 - **Responsive Design**: Styled with Tailwind CSS for a seamless experience across devices.
-- **Smooth Animations**: Engaging animations powered by Framer Motion.
-- **Interactive Notifications**: Instant feedback with React Toastify.
+- **Smooth Animations**: Engaging animations powered by Motion.
+- **Interactive Notifications**: Instant feedback with React Hot Toast.
 - **Modern Tech Stack**: Leveraging React's component-based architecture for maintainability and scalability.
 
 ## Demo
@@ -38,7 +38,7 @@ Here are the main dependencies used in this project:
 
 ## Customization
 
-- **Adding More Cards**: Modify the card dataset in the `GameBoard` component.
+- **Adding More Cards**: Modify the cardArr dataset in the `Urls` component.
 - **Styling**: Update the Tailwind classes or extend the configuration in `tailwind.config.js`.
 - **Notifications**: Customize Toastify notifications in `App.js` or wherever they're triggered.
 
